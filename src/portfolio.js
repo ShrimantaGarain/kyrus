@@ -184,7 +184,7 @@ const bigProjects = {
   subtitle: "MARC II ",
   projects: [
     {
-      image: require("./assets/images/1.jpg"),
+      image: require("./assets/images/1.webp"),
       projectName: "Manual Auto Rover Contro v2",
       projectDesc: "I have worked on autonomous car prototype. It has many features, which includes guided control, RTL(Return To Launch), Self-Steering or lane control,... etc It has a Failsafe mode also which prevent the rover to loose its control and avoids obstacles. ",
       footerLink: [
