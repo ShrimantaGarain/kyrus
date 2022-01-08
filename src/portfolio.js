@@ -185,9 +185,8 @@ const bigProjects = {
   projects: [
     {
       image: require("./assets/images/1.jpg"),
-      image2: require("./assets/images/3.jpg"),
       projectName: "Manual Auto Rover Contro v2",
-      projectDesc: "I have worked on autonomous car prototype. It has many features, which includes guided control, RTL(Return To Launch), Self-Steering or lane control,... etc It has a Failsafe mode also which prevent the rover to loose its control and avoids obstacles.",
+      projectDesc: "I have worked on autonomous car prototype. It has many features, which includes guided control, RTL(Return To Launch), Self-Steering or lane control,... etc It has a Failsafe mode also which prevent the rover to loose its control and avoids obstacles. ",
       footerLink: [
         {
           name: "Details",
