@@ -214,7 +214,7 @@ const achievementSection = {
       title: "SIH (Smart India Hackathon)",
       subtitle:
         "SIH (Smart India Hackathon) 2019 Software Edition 1st Prize winner",
-      image: require("./assets/images/sih.jpg"),
+      image: require("./assets/images/sih.webp"),
       footerLink: [
         {
           name: "Certification",
@@ -226,7 +226,7 @@ const achievementSection = {
       title: " Technitiate",
       subtitle:
         " Built a veichle which can be controlled or auto,using python and raspberry pi named it MARC:manual auto rover control.",
-      image: require("./assets/images/tech.jpg"),
+      image: require("./assets/images/tech.webp"),
       footerLink: [
         {
           name: "Certification",
@@ -239,7 +239,7 @@ const achievementSection = {
       title: "Robogence Robotic compition",
       subtitle:
         "Won first prize in Robogence inter college Robotic Competition",
-      image: require("./assets/images/robo.jpg"),
+      image: require("./assets/images/robo.webp"),
       footerLink: [
         {
           name: "Certification",
@@ -251,7 +251,7 @@ const achievementSection = {
       title: " Texibition ",
       subtitle:
         " Build a CNC printer using raspberry pi and arduino which can draw photos from a camera.",
-      image: require("./assets/images/tex.jpg"),
+      image: require("./assets/images/tex.webp"),
       footerLink: [
         {
           name: "Certification",
@@ -263,7 +263,7 @@ const achievementSection = {
       title: "IoT (Internet Of Things) Workshop",
       subtitle:
         "IoT (Internet Of Things) Workshop, using embedded systems to control different devices over internet",
-      image: require("./assets/images/iot.jpg"),
+      image: require("./assets/images/iot.webp"),
       footerLink: [
         {
           name: "Certification",
