@@ -17,7 +17,7 @@ const greeting = {
     "I am trying to become a successful professional in the field of Information Technology by utilizing my skills and enable further personal and professional development and work towards the prosperity of the organization."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1TAvyPm4nnu-zmFT9fk5ESAVs34Ut9F3F/view", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1jlROhbTF4hu4NClgc5gboESJO-5EvBP4/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 // Social Media Links
